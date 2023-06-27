@@ -1,2 +1,1 @@
-# andrzejpec.github.io
-HeniuGPT
+# noob-repo
